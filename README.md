@@ -11,7 +11,7 @@ Installation
 Make sure you have installed [Python 2.7](http://www.python.org/download)
 
 With the help of python pip installation is as simple:  
-`sudo pip install udacity-dl`
+`sudo pip install git+https://github.com/ashishnitinpatil/udacity-dl.git`
 
 If you prefer manual installation:
 - Clone [this repo]() locally  
