@@ -14,7 +14,7 @@ With the help of python pip installation is as simple:
 `sudo pip install udacity-dl`
 
 If you prefer manual installation:
-- Clone [this repo]() locally
+- Clone [this repo]() locally  
   `git clone https://github.com/ashishnitinpatil/udacity-dl.git <local_dir_path>`
 - Then simply run:  
   `python setup.py install`  
