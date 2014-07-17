@@ -39,8 +39,7 @@ For the link https://www.udacity.com/wiki/ST095/downloads *ST095* is the course_
 Usage:  
 `udacity-dl -d /my/destination/path/ ST095 cs222`
 
-A few courses and their respective course names have been listed under  
-[udacity_courses](/udacity_courses.md)
+A few courses and their respective course names have been listed under [udacity_courses.md](/udacity_courses.md)
 
 
 Features
